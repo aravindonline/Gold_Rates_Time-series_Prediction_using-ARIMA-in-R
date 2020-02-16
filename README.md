@@ -8,3 +8,10 @@ What if the customer is unable to meet the shortfall and starts defaulting on lo
 
 Researchers say that past patterns provide an indication of future movement at least in the short run.
 ARIMA model is one of the widely used models for predicting the gold price today. The model assumes that the future values of time series have a functional relationship with current values, past values and white noise. The model uses the historical value of the series for prediction.
+
+There are two types of risks involved in Gold Loan finance business - Positive and Negative risks.
+Positive Risk: When there is a steep increase in gold price, the customers will clear the gold loan. There is no profit for gold loan company.
+
+Negative Risk: If the prices come down drastically, the customers will stop paying the loan and the gold loan company will finally go bankrupt.
+
+The gold rate forecast helps company to lower principal loan amount (much less percentage of gold value) when there will be a steep decrease in gold rates.
