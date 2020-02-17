@@ -1,4 +1,4 @@
-# Gold_Rates_Time-series_Prediction_using-ARIMA-in-R
+# Gold Rates Time-series Prediction using ARIMA in R
 ### Description: Development of machine learning model to predict the monthly gold rates for next two years.
 ### Tools & Techniques used:  R language, time series analysis, ARIMA model.
 If gold prices fall by 30%-40%, the loan provider would need the borrower to put up more gold. The amount of loan value decreases. This leads to less number of borrowers for a gold loan company.
